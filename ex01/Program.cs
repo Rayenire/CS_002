@@ -2,11 +2,11 @@
 int b1 = 21;
 int c1 = 39;
 int a2 = 12;
-int b2 = 23;
+int b2 = 2311;
 int c2 = 33;
 int a3 = 13;
 int b3 = 23;
-int c3 = 33;
+int c3 = 313;
 
 int max = a1;
 
